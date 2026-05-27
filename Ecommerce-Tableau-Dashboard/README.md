@@ -22,7 +22,7 @@ The dashboard helps uncover:
 This project uses the Flipkart Product Dataset sourced from Kaggle.
 
 Dataset source:
-https://www.kaggle.com/
+https://www.kaggle.com/datasets/san2deep/flipkart-product-dataset
 
 The dataset contains fashion product information from Flipkart and Amazon, including pricing, ratings, reviews, and product categories.
 
